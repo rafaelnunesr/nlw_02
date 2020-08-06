@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     },
 
     totalConnections: {
-        fontFamily: 'POppins_400Regular',
+        fontFamily: 'Poppins_400Regular',
         color: '#d4c2ff',
         fontSize: 12,
         lineHeight: 20,
